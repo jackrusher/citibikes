@@ -26,7 +26,9 @@ was forced to estimate the number of bicycles in the system using the
 greatest number parked at one time: 4,744. My data collection script
 only ran every 15 minutes, but it managed to detect 32,947 trips over
 the five days, with an estimated high of 844 bikes on the road at
-once.
+once. The official Citibikes blog says there were 61,267 trips, which
+I can only assume means that there are many short trips that happen in
+between my sampling window.
 
 Monday was the first day on which the program was open to the public.
 While there was considerable use of Citibikes that day, it was
